@@ -1,6 +1,8 @@
 # Social Engineering
 ## Psychologische Tricks
   * Unsicherheit
+  * Überraschung
+  * Autoritätsgläubigkeit
   * Schock
   * Gier
   * Gutmütigkeit
@@ -11,8 +13,13 @@
   * Hardware (Baiting)
     * USB-Sticks
     * QR-Codes
+  * Persönlich (Haustürgeschäft)
 ## Zielgruppe
   * Massengeschäft
   * Spear-Fishing
     * wertvolle Einzelperson
-    * z.b. CEO Fraud
+## Absicht
+  * Geld
+  * Informationen (z.B. Geschäftsgeheimnisse)
+  * Erpressung
+  * Politik (Geheimdienste etc.)
